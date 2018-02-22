@@ -5,3 +5,5 @@ Expressions des besoins :
 2 - Une application pour récupérer les data depuis plusieurs sites et les injecter si possible dans ma propre base de données.
 3 - Etre capable à intervalles réguliers de faire un upadte de la base en scrappant à nouveau les données et en faisant un merge
 4 - Un site internet pour afficher ma bététhéque avec des options de filtrage
+5 - Une application plus simple sur android pour accéder à la liste des bds posssédées et surtout les manquants
+6 - Dans l'appli android, pouvoir integrer la bd lors de l'achat (lecteur de code barre?) mais aussi de façon plus classique à la main si pas de code barre.
