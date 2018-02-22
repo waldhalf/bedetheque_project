@@ -1,0 +1,5 @@
+ 
+Expressions des besoins : 
+
+1 - Une BD avec scénariste, dessinateur, série, tome
+2 - Une application pour récupérer les data depuis plusieurs sites et les injecter si possible dans ma propre base de données.
